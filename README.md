@@ -5,7 +5,7 @@
     <img src="https://vbr.nathanchung.dev/badge?page_id=f1zzye.f1zzye&color=000000" alt="visitors" />
 </p>
 
-## :book: About Me
+## :book: About Me:
 - 🖥 Python dev with bold ideas
 <!--
 - 💼 Production Engineer at [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
