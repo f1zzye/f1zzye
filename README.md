@@ -1,17 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
 <h3 align="center">A passionate Full Stack Python Developer</h3>
 
-<p align="center">
-    <img src="https://vbr.nathanchung.dev/badge?page_id=f1zzye.f1zzye&color=00cf00" alt="visitors" />
+<p align="left">
+    <img src="https://vbr.nathanchung.dev/badge?page_id=f1zzye.f1zzye&color=000000" alt="visitors" />
 </p>
 
 ## :book: About Me
 - 🖥 Python dev with bold ideas
+<!--
 - 💼 Production Engineer at [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 - 💜 [Open source](https://github.com/CharaChorder) at [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 Bachelor's Computer Science from the University of Waterloo, class of 2024
+-->
+- 🎓 Student of Computer Science
+<!--
 - 🌐 You can access all my open-source projects here on GitHub or on the [AUR](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+-->
 
 ## 🛠 Languages and Tools:
 <p align="left"> 
