@@ -66,4 +66,5 @@
 </p>
 
 ## 📫 How to reach me:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" height="40em" align="center" alt="Follow f1zzye on Telegram" title="Follow f1zzye on Telegram"/>](https://t.me/your_telegram_username)
+[<img src="socials/telegram-svgrepo-com.svg" height="40em" align="center" alt="Follow f1zzye on Telegram" title="Follow f1zzye on Telegram"/>](https://t.me/ts_europe)
+[<img src="socials/gmail-svgrepo-com.svg" height="40em" align="center" alt="Email f1zzye" title="Email f1zzye"/>](mailto:kosenko2401@gmail.com)
